@@ -1,0 +1,14 @@
+E:\Zagruzki\PR6\PR6\PR6-6\PR6-6\bin\Debug\net7.0\PR6-6.exe
+E:\Zagruzki\PR6\PR6\PR6-6\PR6-6\bin\Debug\net7.0\PR6-6.deps.json
+E:\Zagruzki\PR6\PR6\PR6-6\PR6-6\bin\Debug\net7.0\PR6-6.runtimeconfig.json
+E:\Zagruzki\PR6\PR6\PR6-6\PR6-6\bin\Debug\net7.0\PR6-6.dll
+E:\Zagruzki\PR6\PR6\PR6-6\PR6-6\bin\Debug\net7.0\PR6-6.pdb
+E:\Zagruzki\PR6\PR6\PR6-6\PR6-6\obj\Debug\net7.0\PR6-6.GeneratedMSBuildEditorConfig.editorconfig
+E:\Zagruzki\PR6\PR6\PR6-6\PR6-6\obj\Debug\net7.0\PR6-6.AssemblyInfoInputs.cache
+E:\Zagruzki\PR6\PR6\PR6-6\PR6-6\obj\Debug\net7.0\PR6-6.AssemblyInfo.cs
+E:\Zagruzki\PR6\PR6\PR6-6\PR6-6\obj\Debug\net7.0\PR6-6.csproj.CoreCompileInputs.cache
+E:\Zagruzki\PR6\PR6\PR6-6\PR6-6\obj\Debug\net7.0\PR6-6.dll
+E:\Zagruzki\PR6\PR6\PR6-6\PR6-6\obj\Debug\net7.0\refint\PR6-6.dll
+E:\Zagruzki\PR6\PR6\PR6-6\PR6-6\obj\Debug\net7.0\PR6-6.pdb
+E:\Zagruzki\PR6\PR6\PR6-6\PR6-6\obj\Debug\net7.0\PR6-6.genruntimeconfig.cache
+E:\Zagruzki\PR6\PR6\PR6-6\PR6-6\obj\Debug\net7.0\ref\PR6-6.dll
